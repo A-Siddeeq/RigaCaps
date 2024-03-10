@@ -23,7 +23,7 @@ const Menu = [
   },
   {
     id: 3,
-    name: "Men",
+    name: "Eid",
     link: "/#",
   },
   {
